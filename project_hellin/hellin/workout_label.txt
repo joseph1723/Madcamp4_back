@@ -1,0 +1,22 @@
+barbell biceps curl,https://www.youtube.com/embed/QZEqB6wUPxQ
+bench press,https://www.youtube.com/embed/4Y2ZdHCOXok
+chest fly machine,https://www.youtube.com/embed/10hg4LAa7UQ
+deadlift,https://www.youtube.com/embed/XxWcirHIwVo
+decline bench press,https://www.youtube.com/embed/0xRvl4Qv3ZY
+hammer curl,https://www.youtube.com/embed/zC3nLlEvin4
+hip thrust,https://www.youtube.com/embed/S_uZP4UH6J0
+incline bench press,https://www.youtube.com/embed/SrqOu55lrYU
+lat pulldown,https://www.youtube.com/embed/CAwf7n6Luuc
+lateral raises,https://www.youtube.com/embed/WJm9zA2NY8E
+leg extension,https://www.youtube.com/embed/ljO4jkwv8wQ
+leg raises,https://www.youtube.com/embed/RuIdJSVTKO4
+plank,https://www.youtube.com/embed/6LqqeBtFn9M
+pull up,https://www.youtube.com/embed/D-TL5hDQucI
+push up,https://www.youtube.com/embed/AhdtowFDKT0
+romanian deadlift,https://www.youtube.com/embed/_oyxCn2iSjU
+russian twist,https://www.youtube.com/embed/wkD8rjkodUI
+shoulder press,https://www.youtube.com/embed/qEwKCR5JCog
+squat,https://www.youtube.com/embed/IB_icWRzi4E
+t bar row,https://www.youtube.com/embed/j3Igk5nyZE4
+tricep dips,https://www.youtube.com/embed/wjUmnZH528Y
+tricep pushdown,https://www.youtube.com/embed/vB5OHsJ3EME

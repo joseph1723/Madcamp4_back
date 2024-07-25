@@ -1,0 +1,17 @@
+opencv-python
+numpy
+dash
+mediapipe
+tensorflow == 2.12.0
+keras
+torch
+matplotlib
+seaborn
+pycm
+pandas
+plotly
+dash_dangerously_set_inner_html
+flask
+markupsafe
+jinja2
+werkzeug
